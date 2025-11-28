@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Raj 👋
 
-<!--
-**rajjaiswal63/rajjaiswal63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 3rd year CSE student
+- 💻 Learning **Java & Backend Development**
+- 🧠 Solving DSA on **LeetCode**
+- 🌐 Building frontend projects
 
-Here are some ideas to get you started:
+### Tech Stack
+- Languages: C++, Java
+- Frontend: HTML, CSS, JavaScript, React
+- Backend (learning): Java, Spring Boot
+- Tools: Git, GitHub, VS Code, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where else to find me
+- LinkedIn: <https://www.linkedin.com/in/rajjaiswalprofile/>
+- LeetCode: <https://leetcode.com/u/rajjaiswal6394/>
