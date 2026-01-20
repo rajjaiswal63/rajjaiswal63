@@ -3,7 +3,7 @@
 - 🎓 3rd year CSE student
 - 💻 Learning **Java & Backend Development**
 - 🧠 Solving DSA on **LeetCode**
-- 🌐 Building frontend projects
+- 🌐 Building projects
 
 ### Tech Stack
 - Languages: C++, Java
