@@ -1,6 +1,6 @@
 # Hi, I'm Raj 👋
 
-- 🎓 3rd year CSE student
+- 🎓 Final year CSE student
 - 💻 Learning **Java & Backend Development**
 - 🧠 Solving DSA on **LeetCode**
 - 🌐 Building projects
