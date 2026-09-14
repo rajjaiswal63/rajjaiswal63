@@ -8,7 +8,7 @@
 ### Tech Stack
 - Languages: C++, Java
 - Frontend: HTML, CSS, JavaScript, React
-- Backend (learning): Java, Spring Boot
+- Backend : Java, Spring Boot
 - Tools: Git, GitHub, VS Code, IntelliJ
 
 ### Where else to find me
