@@ -1,8 +1,8 @@
 # Hi, I'm Raj 👋
 
 - 🎓 Final year CSE student
-- 💻 Learning **Java & Backend Development**
-- 🧠 Solving DSA on **LeetCode**
+- 💻 Java & Backend Development
+- 🧠 Solving DSA on LeetCode
 - 🌐 Building projects
 
 ### Tech Stack
